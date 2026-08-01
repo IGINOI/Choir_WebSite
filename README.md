@@ -1,11 +1,11 @@
 # Project Management
 
 ## Commit types:
-- Fea -> A new feature was added
+- Fea. -> A new feature was added
     - It may inclide a new page, new section or new codes
-- Fix -> A bug was fixed
+- Fix. -> A bug was fixed
     - A refactored piece of code that was not correctly working
-- Con -> A new content was inserted
+- Con. -> A new content was inserted
     - A new chorister, a new concert flyer or picture was added
 
 ## Images aspect ratio:
