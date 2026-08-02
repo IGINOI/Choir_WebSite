@@ -339,74 +339,15 @@
     </section><!-- /Services Section -->
   </main>
 
-  <footer id="footer" class="footer light-background">
-    <div class="container">
-      <div class="row g-4 justify-content-center">
+  <div id="footer-placeholder"></div>
 
-        <div class="col-md-6 col-lg-3 ps-lg-5 mb-3 mb-md-0">
-          <div class="widget text-center">
-            <h3 class="widget-heading">Orari</h3>
-            <p class="mb-4">
-              Le prove si tengono ogni giovedì <br> dalle 20:15 alle 22:00 <br>
-              presso il Collegio Arcivescovile "C. Endrici" <br> in via Giusti, 15 Trento.
-            </p>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 pl-lg-5">
-          <div class="widget text-center">
-            <h3 class="widget-heading">Contatti</h3>
-            <ul class="list-unstyled footer-blog-entry">
-              <li>
-                <span class="d-block date">Franco Pocher</span>
-                <a>Cell. +39 3316246497 <br> via Aeroporto 23 <br> 38121 Trento</a>
-              </li>
-              <li class="mt-3">
-                <span class="d-block date">Indirizzo Corale</span>
-                <a>coralecittaditrento@gmail.com</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-3 pl-lg-5">
-          <div class="widget text-center">
-            <h3 class="widget-heading">Connect</h3>
-            <ul class="list-unstyled social-icons light mb-3 d-flex justify-content-center gap-3">
-              <li>
-                <a href="https://www.facebook.com/people/Corale-Citt%C3%A0-di-Trento/100088259568855/">
-                  <span class="bi bi-facebook fs-4"></span>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/coralecittaditrento/">
-                  <span class="bi bi-instagram fs-4"></span>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.youtube.com/@coralecittaditrento1851">
-                  <span class="bi bi-youtube fs-4"></span>
-                </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-
-      </div>
-
-
-      <div class="copyright d-flex flex-column flex-md-row align-items-center justify-content-md-between">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">Corale Città di Trento</strong> <span>Cod. fisc. 80019940222</span></p>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you've purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed By <a href="https://themewagon.com">ThemeWagon</a>
-        </div>
-      </div>
-    </div>
-  </footer>
+  <script>
+    fetch('footer.html')
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('footer-placeholder').innerHTML = data;
+      });
+  </script>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
