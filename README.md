@@ -7,6 +7,7 @@
     - A refactored piece of code that was not correctly working
 - Con. -> A new content was inserted
     - A new chorister, a new concert flyer or picture was added
+- Pic. -> New media
 
 ## Images aspect ratio:
 - About section in Index file 

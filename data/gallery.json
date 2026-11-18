@@ -1,0 +1,141 @@
+[
+  {
+    "image": "../assets/img/galleria/1995_Concerto.jpg",
+    "filter": "prima",
+    "heading": "I Luoghi del Concilio",
+    "description": "Castello del Buon Consiglio, Trento"
+  },
+
+  
+
+  {
+    "image": "../assets/img/galleria/2014_ILuoghiDelConcilio_1.jpg",
+    "filter": "2014",
+    "heading": "I Luoghi del Concilio",
+    "description": "Palazzo Roccabruna, Trento"
+  },
+  {
+    "image": "../assets/img/galleria/2014_ILuoghiDelConcilio_2.png",
+    "filter": "2014",
+    "heading": "I Luoghi del Concilio - Maestro Giannotti",
+    "description": "Palazzo Roccabruna, Trento"
+  },
+  {
+    "image": "../assets/img/galleria/2014_ILuoghiDelConcilio_3.png",
+    "filter": "2014",
+    "heading": "I Luoghi del Concilio",
+    "description": "Palazzo Roccabruna, Trento"
+  },
+  {
+    "image": "../assets/img/galleria/2014_ILuoghiDelConcilio_4.jpg",
+    "filter": "2014",
+    "heading": "I Luoghi del Concilio",
+    "description": "Palazzo Roccabruna, Trento"
+  },
+
+
+
+  {
+    "image": "../assets/img/galleria/2020_ILuoghiDelConcilio.jpg",
+    "filter": "2020",
+    "heading": "I Luoghi del Concilio",
+    "description": "Castello del Buon Consiglio, Trento"
+  },
+
+
+
+  {
+    "image": "../assets/img/galleria/2022_Concerto.jpeg",
+    "filter": "2022",
+    "heading": "Concerto 2022",
+    "description": "Concerto"
+  },
+  {
+    "image": "../assets/img/galleria/2022_Concerto_2.jpeg",
+    "filter": "2022",
+    "heading": "Concerto 2022",
+    "description": "Chiesa dell'Ausiliatrice, Trento"
+  },
+  {
+    "image": "../assets/img/galleria/2022_ConcertoNatale.jpg",
+    "filter": "2022",
+    "heading": "Concerto di Natale 2022",
+    "description": "Archivescovile, Trento"
+  },
+
+
+
+  {
+    "image": "../assets/img/galleria/2023_Concerto.jpeg",
+    "filter": "2023",
+    "heading": "Concerto 2023",
+    "description": "Chiesa dei Santi Martiri Anauniensi, Trento"
+  },
+
+
+
+  {
+    "image": "../assets/img/galleria/2025_Concerto.jpeg",
+    "filter": "2025",
+    "heading": "Concerto 2025",
+    "description": "Chiesa dei Santi Martiri Anauniensi, Trento"
+  },
+  {
+    "image": "../assets/img/galleria/2025_CorsoCorale.jpg",
+    "filter": "2025",
+    "heading": "Corso Corale 2025",
+    "description": "Casa del Sacro Cuore, Trento"
+  },
+  {
+    "image": "../assets/img/galleria/2025_ParcoMassimiliano.jpg",
+    "filter": "2025",
+    "heading": "Feasta dei Popoli 2025",
+    "description": "Parco Massimiliano, Trento"
+  },
+
+
+
+  {
+    "image": "../assets/img/galleria/2026_Assisi1.jpg",
+    "filter": "2026",
+    "heading": "Assisi Pax Mundi 2026",
+    "description": "Cattedrale di San Rufino, Assisi"
+  },
+  {
+    "image": "../assets/img/galleria/2026_Assisi2.jpg",
+    "filter": "2026",
+    "heading": "Assisi Pax Mundi 2026",
+    "description": "Cattedrale di San Rufino, Assisi"
+  },
+  {
+    "image": "../assets/img/galleria/2026_Assisi3.jpg",
+    "filter": "2026",
+    "heading": "Assisi Pax Mundi 2026",
+    "description": "Cattedrale di San Rufino, Assisi"
+  },
+  {
+    "image": "../assets/img/galleria/2026_Assisi4.jpg",
+    "filter": "2026",
+    "heading": "Assisi Pax Mundi 2026",
+    "description": "Basilica di San Francesco, Assisi"
+  },
+  {
+    "image": "../assets/img/galleria/2026_Assisi5.jpg",
+    "filter": "2026",
+    "heading": "Assisi Pax Mundi 2026 - Bassi",
+    "description": "Basilica di San Francesco, Assisi"
+  },
+  {
+    "image": "../assets/img/galleria/2026_Assisi6.jpg",
+    "filter": "2026",
+    "heading": "Assisi Pax Mundi 2026 - Tenori",
+    "description": "Basilica di San Francesco, Assisi"
+  }
+
+
+
+
+
+
+    
+]
